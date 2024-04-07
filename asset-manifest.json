@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_Ecommerce/static/css/main.40459e17.css",
+    "main.js": "/React_Ecommerce/static/js/main.92f1255e.js",
+    "static/media/img_1.png": "/React_Ecommerce/static/media/img_1.71e6b72cf1dded22d7d0.png",
+    "static/media/img_2.png": "/React_Ecommerce/static/media/img_2.204a53ed9ce76001fc63.png",
+    "static/media/women.jpg": "/React_Ecommerce/static/media/women.1119941cd9ea3f01bda4.jpg",
+    "index.html": "/React_Ecommerce/index.html",
+    "main.40459e17.css.map": "/React_Ecommerce/static/css/main.40459e17.css.map",
+    "main.92f1255e.js.map": "/React_Ecommerce/static/js/main.92f1255e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40459e17.css",
+    "static/js/main.92f1255e.js"
+  ]
+}
